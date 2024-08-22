@@ -5,5 +5,10 @@ Continue to press in daily. Don't shy away from the unknown or failure. Failure 
 8/20/24 - focused on getting our place setup. Need to start getting into a daily habit of coding, research and exploring problems.
 I want to get better at reading and understanding documentation. I want to continue to ask devin questions and see how I can grow. 
 - questions - any literature or extra reading/materials he would suggest I look to consume
+What part of software engineering for you is using pre-existing tech to piece things together vs creating something new of your own to fit a solution?
+How do you know if an idea is worth pursuing in your opinion?
 - business questions - What was the Y combinator like and what did you learn from it? 
-How do you know if an idea is worth pursuing in your opinion?s
+
+8/22/24 - Next steps to work on would be creating a third table that holds individual conversations and has their id attached to it. Work on schema for adjusting this.
+I will then work on creating a binary rating as well as making the association between having an existing name and creating a new one. 
+Then look to incorporate other languages within. 
