@@ -15,3 +15,5 @@ Then look to incorporate other languages within.
 
 8/23/24 - working on refactoring and breaking up the code to then proceed forward better. This will help the code a ton and help me as well. 
 Working on username hash as well. Been interesting to learn. 
+
+8/24/24 - need to restructure to create better file and function management
