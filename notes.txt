@@ -12,3 +12,6 @@ How do you know if an idea is worth pursuing in your opinion?
 8/22/24 - Next steps to work on would be creating a third table that holds individual conversations and has their id attached to it. Work on schema for adjusting this.
 I will then work on creating a binary rating as well as making the association between having an existing name and creating a new one. 
 Then look to incorporate other languages within. 
+
+8/23/24 - working on refactoring and breaking up the code to then proceed forward better. This will help the code a ton and help me as well. 
+Working on username hash as well. Been interesting to learn. 
