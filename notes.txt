@@ -17,3 +17,5 @@ Then look to incorporate other languages within.
 Working on username hash as well. Been interesting to learn. 
 
 8/24/24 - need to restructure to create better file and function management
+
+8/25/25 - lowkey day today
