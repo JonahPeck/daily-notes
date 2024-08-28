@@ -18,4 +18,6 @@ Working on username hash as well. Been interesting to learn.
 
 8/24/24 - need to restructure to create better file and function management
 
-8/25/25 - lowkey day today
+8/25/24 - lowkey day today
+
+8/27/24 - focusing on switching logic over to be classes for the database additions. Working through it mentally...
