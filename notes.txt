@@ -23,3 +23,7 @@ Working on username hash as well. Been interesting to learn.
 8/27/24 - focusing on switching logic over to be classes for the database additions. Working through it mentally...
 
 8/28/24 - got offered a job today!!!
+
+8/29/24 - offer signed and sent back
+
+8/31/24 - need to resolve merge conflicts prior to moving forward with code. Will focus on that tomorrow.
