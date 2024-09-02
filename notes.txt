@@ -27,3 +27,5 @@ Working on username hash as well. Been interesting to learn.
 8/29/24 - offer signed and sent back
 
 8/31/24 - need to resolve merge conflicts prior to moving forward with code. Will focus on that tomorrow.
+
+9/1/24 - not much today
