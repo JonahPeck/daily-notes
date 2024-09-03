@@ -31,3 +31,5 @@ Working on username hash as well. Been interesting to learn.
 9/1/24 - not much today
 
 9/2/24 - working on fixing merge conflicts and moving forward with production
+
+9/3/24 - staying away from the merge pull request because I do not understand how to remedy this. 
