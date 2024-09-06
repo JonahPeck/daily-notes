@@ -1,10 +1,9 @@
 import click
-import os
 from database import get_connection, initialize_database
-from open_ai_conversation import open_ai_llm
 from get_user_name import get_username
 from llm_choice import choose_llm  # Import the model selection function
 from dotenv import load_dotenv
+
 
 @click.command()
 def main():
@@ -21,5 +20,6 @@ def main():
     conn.commit()  # Commit any changes to the database
     conn.close()  # Close the database connection
 
-if __name__ == '__main__':
+
+if __name__ == "__main__":
     main()

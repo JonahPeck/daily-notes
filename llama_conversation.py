@@ -3,6 +3,7 @@ import os
 import replicate
 from chat_session import ChatSession
 
+
 class LlamaChatSession(ChatSession):
     def __init__(self, username):
         super().__init__(username)
@@ -10,9 +11,11 @@ class LlamaChatSession(ChatSession):
         self.model_version = "meta/meta-llama-3-70b-instruct"
         self.conversation_history = []
 
-    def chat(self)
+    def chat(self):
         while True:
-            question = click.prompt("LLaMa - Ask anything you'd like: (type 'exit' to quit)")
+            question = click.prompt(
+                "LLaMa - Ask anything you'd like: (type 'exit' to quit)"
+            )
 
             if question.lower() in ["exit"]:
                 click.echo("Thanks for chatting!")
@@ -25,7 +28,7 @@ class LlamaChatSession(ChatSession):
                 "prompt": self._create_prompt(question),
                 "min_tokens": 0,
                 "temperature": 0.6,
-                "presence_penalty": 1.15
+                "presence_penalty": 1.15,
             }
 
             try:
@@ -37,7 +40,9 @@ class LlamaChatSession(ChatSession):
 
                 # Process the complete response
                 answer = streamed_response.strip()
-                self.conversation_history.append({"role": "assistant", "content": answer})
+                self.conversation_history.append(
+                    {"role": "assistant", "content": answer}
+                )
 
                 # Save the interaction in the database
                 self.save_interaction(question, answer)

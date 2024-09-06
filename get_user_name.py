@@ -1,9 +1,8 @@
-import hashlib
-import os
 import click
 from dotenv import load_dotenv
 
-load_dotenv() #placed in this folder so any script can have access once a username is used
+load_dotenv()  # placed in this folder so any script can have access once a username is used
+
 
 def get_username():
     """Prompt the user for their name and return it."""
