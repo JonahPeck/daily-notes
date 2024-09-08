@@ -35,3 +35,4 @@ Working on username hash as well. Been interesting to learn.
 9/3/24 - staying away from the merge pull request because I do not understand how to remedy this. 
 
 9/5/24 - ruff is cool
+
