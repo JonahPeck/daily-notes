@@ -39,3 +39,5 @@ Working on username hash as well. Been interesting to learn.
 9/8/24 - great weekend
 
 9/9/24 - tomorrow I need to work on username hash implementation, pseudo conversion implementation, and maybe look at gemma 
+
+9/11/24 - made it to palm springs
